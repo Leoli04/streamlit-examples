@@ -3,7 +3,7 @@ import numpy as np
 import altair as alt
 import pandas as pd
 from datetime import time, datetime
-import time as t
+
 
 st.header('st.button')
 
@@ -179,20 +179,3 @@ if uploaded_file is not None:
 else:
   st.info('☝️ Upload a CSV file')
 
-
-st.markdown("---")
-
-st.title('st.progress')
-
-st.write("`st.progress` 显示一个随着循环进度更新的进度条。")
-
-with st.expander('About this app'):
-     st.write('You can now display the progress of your calculations in a Streamlit app with the `st.progress` command.')
-
-my_bar = st.progress(0)
-
-for percent_complete in range(100):
-     t.sleep(0.05)
-     my_bar.progress(percent_complete + 1)
-
-st.balloons()
