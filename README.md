@@ -14,6 +14,9 @@
 
 [boredapi](https://www.boredapi.com/documentation) ：api
 
+[react-grid-layou](https://github.com/react-grid-layout/react-grid-layou) ：用于 React 的可拖动且可调整大小的网格布局，带有响应断点。
 [monaco-react](https://github.com/suren-atoyan/monaco-react)
 [monaco-editor](https://microsoft.github.io/monaco-editor/): The Monaco Editor is the code editor that powers VS Code
 [react-player](https://github.com/cookpete/react-player)
+[shap](https://github.com/shap/shap) :一种博弈论方法，用于解释任何机器学习模型的输出。
+[streamlit-shap](https://github.com/snehankekre/streamlit-shap)
