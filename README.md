@@ -13,3 +13,7 @@
 [HTML 色彩码](https://htmlcolorcodes.com/) :一个能够帮助选择目标颜色的工具
 
 [boredapi](https://www.boredapi.com/documentation) ：api
+
+[monaco-react](https://github.com/suren-atoyan/monaco-react)
+[monaco-editor](https://microsoft.github.io/monaco-editor/): The Monaco Editor is the code editor that powers VS Code
+[react-player](https://github.com/cookpete/react-player)
