@@ -1,7 +1,7 @@
 
 # streamlit-examples
 
-这个是尝试streamlit不同玩法的一个仓库
+这个是尝试streamlit不同玩法的一个仓库,基于python: Python 3.11.9
 
 - api-demo:了解streamlit api特性
 
